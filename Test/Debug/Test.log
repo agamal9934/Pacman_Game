@@ -1,0 +1,248 @@
+﻿  Source.cpp
+D:\project Pacman\Pacman_Game\Test\Source.cpp(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(29,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(34,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(40,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(46,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(233,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(234,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(241,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(242,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(249,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(250,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(257,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(258,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(265,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(460,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(461,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(468,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(469,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(476,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(477,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(484,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(485,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(492,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(526,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(527,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(534,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(535,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(542,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(543,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(550,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(551,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(558,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(643,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(644,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(651,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(652,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(659,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(660,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(667,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(668,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(675,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(736,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(808,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(809,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(810,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(811,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(813,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(814,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(815,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(816,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(817,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(818,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(819,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\project Pacman\Pacman_Game\Test\Source.cpp(863,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(863,51): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(864,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(864,51): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(865,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(865,51): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(866,25): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(866,51): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(867,24): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(867,50): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\project Pacman\Pacman_Game\Test\Source.cpp(868,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(922,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(922,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(926,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(926,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(930,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(930,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(934,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(934,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(938,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\project Pacman\Pacman_Game\Test\Source.cpp(938,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Test.vcxproj -> D:\project Pacman\Pacman_Game\Debug\Test.exe
